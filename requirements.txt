@@ -68,6 +68,7 @@ slicer==0.0.8
 smmap==5.0.2
 stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
 streamlit==1.45.1
+streamlit-shap==1.0.2
 tenacity==9.1.2
 threadpoolctl==3.6.0
 toml==0.10.2
